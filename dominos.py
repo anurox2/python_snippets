@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-## This code prints dominos
+## This code prints dominos.
 
 for left in range(7):
     for right in range(left, 7):
